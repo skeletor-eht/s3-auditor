@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.venv/
+env/
+*.env/
+pip-selfcheck.json
+
+# Output files (if they contain real scan data)
+*.csv
+*.json
+
+# Operating System specific
+.DS_Store
+Thumbs.db
+
+# IDE specific (add your own if needed)
+.idea/
+.vscode/
